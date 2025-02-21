@@ -1,0 +1,1 @@
+Hello, this is just a moke user authentication system in NodeJS using a MongoDB databse, JWT authentication, and bcrypt password hashing. 
